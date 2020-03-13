@@ -14,3 +14,6 @@
 (any changes made in one branch won't be reflected in the other branches)
 14. to merge a branch x into the currently active branch - "git merge x"
 15. to publish project online, create repository on github, copy the "git remote add origin..." command and run it on console, and then - "git push origin master"
+16. cloning - click fork option and copy the https link from the clone option and use command "git clone <link>"
+17. to add all files - "git add -A"
+18. pull request - click the pull request option in github

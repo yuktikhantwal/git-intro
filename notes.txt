@@ -7,3 +7,10 @@
 7. press escape and type ":wq" to save commit and exit vim editor
 8. if your commit message is just a single line, no need for text editor - "git commit -m "<commit message>""
 9. after editing file, see changes made - "git diff"
+10. for shorter logs - "git log --oneline"
+11. to create branch - "git checkout -b <branch name>"
+12. to see all branches - "git branch"
+13. to move to any branch - "git checkout <branch name>"
+(any changes made in one branch won't be reflected in the other branches)
+14. to merge a branch x into the currently active branch - "git merge x"
+15. to publish project online, create repository on github, copy the "git remote add origin..." command and run it on console, and then - "git push origin master"

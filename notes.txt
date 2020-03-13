@@ -1,0 +1,7 @@
+1. initialize a github repo - "git init ."
+2. check the status - "git status"
+3. add files - "git add <file name>"
+4. "git log"
+5. commit the change to add it into logs as well - "git commit"
+6. vim text editor opens, write message related to the commit
+7. press escape and type ":wq" to save commit and exit vim editor
